@@ -27,5 +27,3 @@ Users can configure scraping targets, filtering rules, and processing behavior t
 - Analytics platforms  
 - AI/ML preprocessing workflows  
 
-## Compliance and Safety
-scrape-healthcare is designed with privacy-first principles. It encourages avoiding the collection of personally identifiable information and supports filtering mechanisms to reduce compliance risks. However, it is the user’s responsibility to ensure adherence to regulations such as GDPR, HIPAA, or other applicable laws.
